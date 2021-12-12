@@ -2,7 +2,7 @@
 layout: page
 title: Transformations
 permalink: /transformations/
-image: '/images/11.jpg'
+image: ''
 ---
 
 **Here are some client transformations.**
@@ -24,7 +24,7 @@ image: '/images/11.jpg'
     <img src="/images/06-1.jpg">
     <img src="/images/06-2.jpg">
     <img src="/images/06-3.jpg">
-    <img src="/images/06.pg">
+    <img src="/images/06.jpg">
     <img src="/images/07-1.jpg">
     <img src="/images/07-2.jpg">
     <img src="/images/07-3.jpg">
