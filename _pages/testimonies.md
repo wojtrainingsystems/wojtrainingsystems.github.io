@@ -21,6 +21,7 @@ It’s a big decision to trust someone completely to get you to your goals. That
 — Trez Gagnier, Natural Physique Competitor 
 ```
 
+-
 
 ```
 Jake Wojciechowski, my mentor, and my role model. 
@@ -32,6 +33,7 @@ I am thankfully everyday for having him in my life.
 — Brett Zimmer, Natural Physique Competitor 
 ```
 
+-
 
 ```
 I have been working with Jake since January and have been more than impressed with his knowledge of nutrition and  training. I started out to get a professional perspective to get into the best shape i could at the age of  47. What i would find was following his nutrition and training not only was i able to get into the best shape of my life but also competed in a body building show that i never had any interest in before but because of the staggering results decided to give it a try. I was able to place well in the open division and win my age group and get my pro card which is crazy seeing i wasn’t even interested in that when i started. 
@@ -41,6 +43,7 @@ Jake is great to work with and has incredible attention to detail and prepared a
 — Chad Kingsbury, Natural Pro
 ```
 
+-
 
 ```
 I have been working with Jake since January and have been more than impressed with his knowledge of nutrition and  training. I started out to get a professional perspective to get into the best shape i could at the age of  47. What i would find was following his nutrition and training not only was i able to get into the best shape of my life but also competed in a body building show that i never had any interest in before but because of the staggering results decided to give it a try. I was able to place well in the open division and win my age group and get my pro card which is crazy seeing i wasn’t even interested in that when i started. 
@@ -50,6 +53,7 @@ Jake is great to work with and has incredible attention to detail and prepared a
 — Cameron Campbell, Natural Pro 
 ```
 
+-
 
 ```
 My Journey with Jake began in April of this year. There were so many reasons why I decided to begin training. I had competed in the past, taking 2 first places at my very first show, but I wasn’t happy. I wanted more. I asked a friend who knew Jake if he was the “real deal” you just never know what you’re going to get when you are looking for an online coach. With Jake I got everything I could have ever needed and more. From the start Jake was amazing!! He changed my whole view on training and dieting. He taught me about flexible dieting which is such an important skill to understand and master as an athlete. He has knowledge beyond his years. He believed in me before I believed in myself. He saw something in me that I didn’t see in myself. I wouldn’t be where I am now without him. I am a champion because of him. I am a professional natural bikini athlete because of him. Jake has been my biggest hypeman through and through. I trust Jake and  have unwavering faith in him as my coach. Our coach athlete relationship is something truly special that I value more than he could ever know. He has become family to me. And I will forever be Team Woj for life.
@@ -64,6 +68,7 @@ Before signing up with Jake I used to lift one body part a week and now that he 
 — Cody Bell
 ```
 
+-
 
 ```
 Starting my fitness journey with a coach was extremely scary for me. I had always worked out for the purpose of wanting to lose weight but I knew nothing about proper diet or the best way to achieve those goals and on top of that, I wasn’t seeing the results I wanted. 
@@ -81,7 +86,7 @@ I have never been happier or healthier.
 — Larkin Hubert, Ms. Bay County 2020 
 ```
 
-
+-
 
 ```
 I’ve been with Jake since May, and I haven’t looked back. I’ve always been a person who enjoys having some sort of workout plan/nutritional plan to follow, instead of just flying along with whatever. Jake has been extremely helpful and so knowledgeable with any and all questions I have. I’m not waiting for days on end if I have a question. He is very attentive and more than just a trainer. He motivates, encourages, and supports you with whatever goals you have in mind. Truly, what you get with Jake is worth it. You don’t just feel like another person. Everyone’s life and habits and goals are different and Jake makes whatever your striving for fit to YOU. Personal connections are important to me, and Jake has never failed on that. Very very happy with my progress and gains I’ve made. We aren’t stopping!
@@ -89,6 +94,7 @@ I’ve been with Jake since May, and I haven’t looked back. I’ve always been
 — Jamiee Crites 
 ```
 
+-
 
 ```
 If you're anything like me and fall victim to all these quick fix, yo-yo diets out there PLEASE STOP!! Do yourself a HUGE favor and hire Jake Wojciechowski as your Fitness Coach!!! 
@@ -98,6 +104,7 @@ He has been nothing but a blessing to my life. We have worked together just shy 
 — Karen Reinhardt 
 ```
 
+-
 
 ```
 I have been working with Jake for 10 months. He has taught me the importance of counting macros, being consistent with my diet and exercise, getting good sleep and rest when needed. Since I have been following his plan he created for me I have noticed significant results. I am down a total of 17lbs and a lot stronger and leaner. It takes time, but definitely well worth it. He is very knowledgeable and answers any questions I have. His positive attitude always keeps me going.  I recommend him to anyone looking to make a difference.
@@ -105,6 +112,7 @@ I have been working with Jake for 10 months. He has taught me the importance of 
 — Holly Pavlo 
 ```
 
+-
 
 ```
 Jake is an excellent coach who is extremely knowledgeable in the world of bodybuilding. He pays attention to every little detail and holds each client accountable because he genuinely wants you to reach your goals.
@@ -114,6 +122,7 @@ Any little question a client has for Jake he will answer with a educated respons
 — Drew Kalahar 
 ```
 
+-
 
 ```
 Jake been more than just a bodybuilding coach to me. And that you can’t say about many people especially with how social media is now a days. 
@@ -125,6 +134,7 @@ I take my fitness goals very seriously and have plans/thoughts of possibly compe
 — Collin Brabrant 
 ```
 
+-
 
 ```
 I met Jake at my very first bodybuilding show. He was the coach of the Classic Physique Overall winner. I met him backstage and instantly clicked with him and his client Cam. Jake showed respect, wisdom, and generosity towards me the entire time. He made such an impact that I asked him to be my coach shortly after the competition ended.
@@ -134,6 +144,7 @@ Since I’ve started with him, I’ve not only progressed my numbers in the gym,
 — Jonathan Trommer, Natural Bodybuilder 
 ```
 
+-
 
 ```
 I have been working with Jake since July 3rd. I have worked out in the past but the nutrition I always had trouble with. Jake has helped with that and with my workouts.  He is very knowledgeable and when I need a question answered he is always there to answer it.  
