@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Elements
-permalink: /elements/
+permalink: /transformations/
 image: '/images/11.jpg'
 ---
 
