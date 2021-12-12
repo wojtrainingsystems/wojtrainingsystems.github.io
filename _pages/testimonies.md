@@ -127,3 +127,7 @@ Since I’ve started with him, I’ve not only progressed my numbers in the gym,
 > I was very leary about going through with this but I am so glad that I did because he has taken me to the next level. I still have a long way to go but with Jake's help I know I will achieve that goal!
 
 <cite> — Michael Kowalski </cite>
+
+> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+>
+> <cite>George Bernard Shaw</cite>
