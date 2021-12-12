@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Athletes
 permalink: /athletes/
 image: '/images/01-1.jpg'
 ---
