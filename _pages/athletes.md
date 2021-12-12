@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /athletes/
 image: '/images/01-1.jpg'
 ---
 
