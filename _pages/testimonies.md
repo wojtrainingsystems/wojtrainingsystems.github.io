@@ -6,7 +6,7 @@ permalink: /testimonies/
 
 **Here are some client testimonies.**
 
-
+<div background-color: coral>
 Jake is not my first coach and I wasn’t  new to bodybuilding, But I’m brand new to this kind of coaching. 
 
 I’ve been able to successfully go through a leaning out and then building phase with Jake and I couldn’t be happier with the results of both! **His programming is well thought out, backed by science and also just as importantly, experience.** 
@@ -19,7 +19,8 @@ It’s a big decision to trust someone completely to get you to your goals. That
 
 — Trez Gagnier, Natural Physique Competitor 
 
-<hr>
+</div>
+
 
 Jake Wojciechowski, my mentor, and my role model. 
 
