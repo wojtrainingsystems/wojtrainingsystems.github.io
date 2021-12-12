@@ -7,7 +7,7 @@ image: '/images/11.jpg'
 
 Here are some client testimonies.
 
-```
+
 Jake is not my first coach and I wasn’t  new to bodybuilding, But I’m brand new to this kind of coaching. 
 
 I’ve been able to successfully go through a leaning out and then building phase with Jake and I couldn’t be happier with the results of both! His programming is well thought out,  backed by science and also just as importantly, experience. 
@@ -19,7 +19,7 @@ He encourages a healthy lifestyle that doesn’t just include what I eat and wha
 It’s a big decision to trust someone completely to get you to your goals. That’s how I felt. But I’m here to tell you that with Jake’s guidance I didn’t reach the goals I set for myself. I reached bigger ones. 
 
 — Trez Gagnier, Natural Physique Competitor 
-```
+
 
 <!-- -->
 
