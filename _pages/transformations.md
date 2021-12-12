@@ -31,5 +31,4 @@ image: '/images/11.jpg'
     <img src="/images/07.jpg">
     <img src="/images/08-1.jpg">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
