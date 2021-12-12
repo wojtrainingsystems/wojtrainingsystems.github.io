@@ -2,7 +2,6 @@
 layout: page
 title: Transformations
 permalink: /transformations/
-image: ''
 ---
 
 **Here are some client transformations.**
