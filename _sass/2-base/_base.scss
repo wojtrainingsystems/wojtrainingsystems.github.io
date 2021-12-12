@@ -126,9 +126,6 @@ blockquote {
   }
 }
 
-div {
-  background-color: coral;
-}
 
 pre {
   overflow: auto;
@@ -194,7 +191,7 @@ hr {
   border: 0;
 
   &::before {
-    content: ". . . . . . . . . . .";
+    /**content: ". . .";*//
     position: center;
     top: -5px;
     line-height: 0;
