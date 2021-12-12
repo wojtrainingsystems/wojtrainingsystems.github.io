@@ -78,7 +78,6 @@ Some of my biggest takeaways from this journey have been that less isn’t more,
 
 I have never been happier or healthier.
 
-
 — Larkin Hubert, Ms. Bay County 2020 
 ```
 
