@@ -190,8 +190,8 @@ hr {
   border: 0;
 
   &::before {
-    content: ". . .";
-    position: absolute;
+    content: ". . . . . . . . . . .";
+    position: center;
     top: -5px;
     line-height: 0;
     color: var(--heading-font-color);
