@@ -66,9 +66,9 @@ blockquote {
   position: relative;
   padding: 68px 0;
   margin: 68px -130px;
-  font-size: 20px;
+  font-size: 44px;
   line-height: 1;
-  font-weight: 700;
+  font-weight: 900;
   font-style: italic;
   text-align: center;
   color: var(--heading-font-color);
@@ -99,7 +99,7 @@ blockquote {
     display: inline-block;
     margin-top: 8px;
     font-size: 14px;
-    font-weight: 800;
+    font-weight: 900;
     font-style: italic;
     color: var(--heading-font-color);
     &::after,
@@ -125,7 +125,6 @@ blockquote {
     font-size: 21px;
   }
 }
-
 
 pre {
   overflow: auto;
@@ -185,14 +184,14 @@ a {
 }
 
 hr {
-  position: center;
+  position: relative;
   height: 1px;
   margin: 60px 0;
   border: 0;
 
   &::before {
-    /**content: ". . .";*//
-    position: center;
+    content: ". . .";
+    position: absolute;
     top: -5px;
     line-height: 0;
     color: var(--heading-font-color);
