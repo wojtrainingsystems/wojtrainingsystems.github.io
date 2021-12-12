@@ -15,10 +15,10 @@ author:
 
 social:
 #- {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", label: Facebook, link: "https://facebook.com"}
+- {icon: "ion-logo-facebook", label: Facebook, link: "https://www.facebook.com/jake.wojciechowski.5"}
 # - {icon: "ion-logo-pinterest", label: Pinterest, link: "https://pinterest.com"}
 # - {icon: "ion-logo-dribbble", label: Dribbble, link: "https://dribbble.com"}
-- {icon: "ion-logo-instagram", label: Instagram, link: "https://instagram.com"}
+- {icon: "ion-logo-instagram", label: Instagram, link: "https://www.instagram.com/wojtrainingsystems/?hl=en}
 # - {icon: "ion ion-logo-vimeo", label: Vimeo, link: "https://vimeo.com"}
 
 # Example of adding a new link to the author section and footer - {icon: "ion-logo-github", label: Github, link: "https://github.com"}
@@ -53,12 +53,12 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: anvodstudio-demo # add your shortname for Disqus Comment. For example anvodstudio-demo
+# disqus-identifier: anvodstudio-demo # add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+# google-analytics: # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------
