@@ -21,7 +21,7 @@ It’s a big decision to trust someone completely to get you to your goals. That
 — Trez Gagnier, Natural Physique Competitor 
 ```
 
--
+
 
 ```
 Jake Wojciechowski, my mentor, and my role model. 
