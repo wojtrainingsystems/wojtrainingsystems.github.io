@@ -2,7 +2,6 @@
 layout: page
 title: Testimonies
 permalink: /testimonies/
-image: '/images/11.jpg'
 ---
 
 **Here are some client testimonies.**
