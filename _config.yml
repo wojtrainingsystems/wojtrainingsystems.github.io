@@ -2,7 +2,7 @@
 # General Site Settings
 title: Woj Training Systems
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Joseph is a super minimal content focus theme for Jekyll.
+description: Woj Training Systems is owned by Jake Wojciechowski, a professional natural bodybuilder and NASM certified personal trainer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://joseph-jekyll.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -28,7 +28,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Welcome to Woj Training Systems.
-  hero__description: I'm a designer & products creator. I teach designers code and developers design. Passionate about people, health, & design systems.
+  hero__description: Jake Wojciechowski is a professional natural bodybuilder and NASM certified personal trainer. He holds a bachelor's degree in kinesiology and a master of science degree in occupational therapy. Jake has been training individuals for 5+ years in person and online. He's trained a wide demographic of clients, ranging from CVA survivors to IFBB professional bodybuilders.
   hero__image: '/images/01.jpg'
 
 
