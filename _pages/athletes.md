@@ -8,8 +8,9 @@ permalink: /athletes/
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/10.jpeg">
     <img src="/images/11.jpeg">
+    test
+    
     <img src="/images/12.jpeg">
     <img src="/images/13.jpeg">
     <img src="/images/14.jpeg">
@@ -22,6 +23,5 @@ permalink: /athletes/
     <img src="/images/21.jpeg">
     <img src="/images/22.jpeg">
     <img src="/images/23.jpeg">
-    <img src="/images/24.jpeg">
   </div>
 </div>
