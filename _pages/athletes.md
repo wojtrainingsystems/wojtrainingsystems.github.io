@@ -4,8 +4,6 @@ title: Athletes
 permalink: /athletes/
 ---
 
-**Here are some of the athletes who work with Woj Training Systems.**
-
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/11.jpeg">    
