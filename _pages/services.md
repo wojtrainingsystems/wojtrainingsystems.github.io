@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Services
+permalink: /services/
 ---
 
 Jake specializes in strength training, hypertrophy training, sports nutrition, general wellness and weight loss, and contest preparation.
