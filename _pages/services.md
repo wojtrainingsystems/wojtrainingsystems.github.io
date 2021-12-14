@@ -4,7 +4,7 @@ title: Services
 permalink: /services/
 ---
 
-Jake specializes in strength training, hypertrophy training, sports nutrition, general wellness and weight loss, and contest preparation.
+Jake is an online fitness coach that specializes in strength training, hypertrophy training, sports nutrition, general wellness and weight loss, behavior change, healthy habit building, and contest preparation.
 
 <div class="gallery-box">
   <div class="gallery">
