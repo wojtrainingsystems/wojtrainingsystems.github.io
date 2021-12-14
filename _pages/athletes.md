@@ -15,6 +15,5 @@ permalink: /athletes/
     <img src="/images/20.jpeg">
     <img src="/images/21.jpeg">
     <img src="/images/22.jpeg">
-    <img src="/images/23.jpeg">
   </div>
 </div>
