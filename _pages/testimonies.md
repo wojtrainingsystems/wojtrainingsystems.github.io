@@ -4,8 +4,6 @@ title: Testimonies
 permalink: /testimonies/
 ---
 
-**Here are some client testimonies.**
-
 
 Jake is not my first coach and I wasn’t  new to bodybuilding, But I’m brand new to this kind of coaching. 
 
