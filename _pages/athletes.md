@@ -7,7 +7,6 @@ permalink: /athletes/
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/11.jpeg">    
-    <img src="/images/14.jpeg">
     <img src="/images/15.jpeg">
     <img src="/images/16.jpeg">
     <img src="/images/17.jpeg">
