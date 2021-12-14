@@ -4,7 +4,7 @@ title: Transformations
 permalink: /transformations/
 ---
 
-**Here are some client transformations.**
+**Lifestyle & Competition Transformations**
 
 <div class="gallery-box">
   <div class="gallery">
