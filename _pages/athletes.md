@@ -21,6 +21,6 @@ permalink: /athletes/
 -----
 test
 
-{% include image-gallery.html folder="../images/" %}
+{% include image-gallery.html folder="/images/" %}
 
 test
