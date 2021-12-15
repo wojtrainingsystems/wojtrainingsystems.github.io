@@ -4,9 +4,7 @@ title: Athletes
 permalink: /athletes/
 ---
 
-{% include image-gallery.html folder="/images/athletes" %}
-
-///
+/*{% include image-gallery.html folder="/images/athletes" %}*/
 
 <div class="gallery-box">
   <div class="gallery">
