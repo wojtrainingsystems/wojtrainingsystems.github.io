@@ -5,7 +5,7 @@ permalink: /athletes/
 ---
 <div class="gallery-box">
   <div class="gallery">
-   <img src="/images/athletes/Brett Z., Men’s Physique.jpeg alt="{{ filename }}" /> test
+    <img src="/images/athletes/Brett Z., Men’s Physique.jpeg"> {{ filename }}
     <img src="/images/athletes/Cameron C., Classic Physique Pro.jpeg">
     <img src="/images/athletes/Chad K., Men’s Physique Pro.jpeg">
     <img src="/images/athletes/Christina C., Bikini Pro.jpeg">
