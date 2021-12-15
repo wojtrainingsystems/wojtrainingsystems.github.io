@@ -21,6 +21,6 @@ permalink: /athletes/
 -----
 test
 
-{% include image-gallery.html folder="https://kywoj.com/images/" %}
+{% include image-gallery.html folder="/images/" %}
 
-test111
+test111545
