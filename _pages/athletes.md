@@ -16,3 +16,9 @@ permalink: /athletes/
     <img src="/images/21.jpeg">
   </div>
 </div>
+
+
+-----
+test
+
+{% include image-gallery.html folder="/uploads/album" %}
