@@ -4,7 +4,7 @@ title: Woj Training Systems
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Woj Training Systems is owned by Jake Wojciechowski, a professional natural bodybuilder and NASM certified personal trainer.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://joseph-jekyll.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://wojtrainingsystems.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # Author Settings
