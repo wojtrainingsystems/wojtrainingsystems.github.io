@@ -4,7 +4,7 @@ title: Athletes
 permalink: /athletes/
 ---
 
-<div class="gallery-box">
+/*<div class="gallery-box">
   <div class="gallery">
     <img src="/images/11.jpeg">    
     <img src="/images/16.jpeg">
@@ -15,7 +15,7 @@ permalink: /athletes/
     <img src="/images/17.jpeg">
     <img src="/images/21.jpeg">
   </div>
-</div>
+</div>*/
 
 
 -----
