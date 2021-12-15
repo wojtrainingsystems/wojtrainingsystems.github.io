@@ -6,7 +6,6 @@ permalink: /transformations/
 
 **Lifestyle & Competition Transformations**
 
-{% include image-gallery.html folder="/images/transformations" %}
 
 <div class="gallery-box">
   <div class="gallery">
