@@ -8,9 +8,9 @@ Jake is an online fitness coach that specializes in strength training, hypertrop
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/jake1.jpeg">
-    <img src="/images/jake2.jpeg">
-    <img src="/images/jake3.jpeg">
+    <img src="/images/jake/Jake2.jpeg">
+    <img src="/images/jake/Jake3.jpeg">
+    <img src="/images/jake/Jake4.jpeg">
 
   </div>
 </div>
