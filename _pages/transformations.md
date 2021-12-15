@@ -18,7 +18,6 @@ permalink: /transformations/
     <img src="/images/transformations/transformation07.jpeg">
     <img src="/images/transformations/transformation08.jpeg">
     <img src="/images/transformations/transformation09.jpeg">
-    <img src="/images/transformations/transformation10.jpeg">
     <img src="/images/transformations/transformation11.jpeg">
     <img src="/images/transformations/transformation12.jpeg">
     <img src="/images/transformations/transformation13.jpeg">
@@ -32,5 +31,6 @@ permalink: /transformations/
     <img src="/images/transformations/transformation21.jpeg">
     <img src="/images/transformations/transformation22.jpeg">
     <img src="/images/transformations/transformation23.jpeg">
+    <img src="/images/transformations/transformation10.jpeg">
   </div>
 </div>
