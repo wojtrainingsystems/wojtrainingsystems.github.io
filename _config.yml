@@ -10,7 +10,7 @@ url: "https://wojtrainingsystems.github.io" # the base hostname & protocol for y
 # Author Settings
 author:
   name: Woj Training Systems
-  bio: Jake Wojciechowski is a professional natural bodybuilder and NASM certified personal trainer. He holds a bachelor's degree in kinesiology and a master of science degree in occupational therapy. Jake has been training individuals for 5+ years in person and online. He's trained a wide demographic of clients, ranging from CVA survivors to IFBB professional bodybuilders.
+  bio: Jake Wojciechowski is a professional natural bodybuilder and NASM certified personal trainer. He holds a Bachelor of Science degree in kinesiology and a Master of Science degree in occupational therapy. Jake has been training individuals for 5+ years in person and online. He's trained a wide demographic of clients, ranging from CVA survivors to IFBB professional bodybuilders.
   avatar: '/images/jake/Jake1.jpeg'
 
 social:
@@ -28,7 +28,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Welcome to Woj Training Systems.
-  hero__description: Jake Wojciechowski is a professional natural bodybuilder and NASM certified personal trainer. He holds a bachelor's degree in kinesiology and a master of science degree in occupational therapy. Jake has been training individuals for 5+ years in person and online. He's trained a wide demographic of clients, ranging from CVA survivors to IFBB professional bodybuilders.
+  hero__description: Jake Wojciechowski is a professional natural bodybuilder and NASM certified personal trainer. He holds a Bachelor of Science degree in kinesiology and a Master of Science degree in occupational therapy. Jake has been training individuals for 5+ years in person and online. He's trained a wide demographic of clients, ranging from CVA survivors to IFBB professional bodybuilders.
   hero__image: '/images/jake/Jake1.jpeg'
 
 
