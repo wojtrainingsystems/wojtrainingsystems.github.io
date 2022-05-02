@@ -12,6 +12,10 @@ permalink: /athletes/
     <img src="/images/athletes/Cynthia C, Women’s Physique.jpeg">
     <img src="/images/athletes/Drew K, Men’s Physique.jpeg">
     <img src="/images/athletes/Emily B, Women’s Physique.jpeg">
-    <img src="/images/athletes/Jon T., Open Bodybuilding.jpeg">
+    <img src="/images/athletes/Jon T., Bodybuilding Pro.jpeg">
+    <img src="/images/athletes/Alberto T., Masters Classic.jepg">
+    <img src="/images/athletes/Alfred P., Men's Physique Pro.jpeg">
+    <img src="/images/athletes/Nikki L., Bikini Pro.jpeg">
+    <img src="/images/athletes/Eleanor R., Figure & Physique Pro.jpeg">
   </div>
 </div>
